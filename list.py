@@ -15,4 +15,4 @@ my_list.pop()
 
 my_list.sort()
 
-print(my_list)
+print(my_list[3])
